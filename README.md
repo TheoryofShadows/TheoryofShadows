@@ -1,16 +1,30 @@
-## Hi there 👋
+# Chaos · TheoryofShadows
 
-<!--
-**TheoryofShadows/TheoryofShadows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder working across web apps, Solana, and developer tools. I ship small, usable products and keep iterating in public.
 
-Here are some ideas to get you started:
+## Shipped / live
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | Link |
+| --- | --- | --- |
+| **The-Book** | Biblical text & timeline exploration | [thebookandme.com](https://thebookandme.com) · [repo](https://github.com/TheoryofShadows/The-Book) |
+| **nftsol** | Community-driven Solana NFT marketplace | [nftsol.app](https://nftsol.app) · [repo](https://github.com/TheoryofShadows/nftsol) |
+| **Mcp / MCPX** | Marketplace for MCP servers (discover, install, publish) | [mcpx.digital](https://www.mcpx.digital) · [repo](https://github.com/TheoryofShadows/Mcp) |
+
+## Open builds
+
+| Project | Notes |
+| --- | --- |
+| [**ufo-files**](https://github.com/TheoryofShadows/ufo-files) | Public-interest document / archive exploration |
+| [**specimen-finder**](https://github.com/TheoryofShadows/specimen-finder) | Botany / GBIF specimen research tooling |
+| [**cryptrans**](https://github.com/TheoryofShadows/cryptrans) | Zero-knowledge / Solana program experiments |
+
+Other repos (Synolingua, Verd1ct, Warsaken-companion, ZecLana, …) are personal experiments and learning projects — not all are production-ready.
+
+## Focus
+
+- Practical full-stack products with clear UX
+- Solana / web3 when it fits the problem
+- MCP and AI-tooling infrastructure
+- Honest docs and portfolio hygiene over hype
+
+Thanks for stopping by.
